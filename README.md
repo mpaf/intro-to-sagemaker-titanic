@@ -7,3 +7,5 @@ The wreck of the RMS Titanic was one of the worst shipwrecks in history, and is 
 One of the reasons that the shipwreck lead to such loss of life is that were not enough lifeboats for the passengers and crew.  Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others, like women, children, and the upper-class.
 
 We will apply the tools of Machine Learning and use this dataset as an intro to Amazon SageMaker
+
+Start the exercise by navigating to [Lab1](./1-DataPreparation.ipynb)
